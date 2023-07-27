@@ -1,1 +1,1 @@
-# cafe_wysiwygvar
+# cafe_wishlist

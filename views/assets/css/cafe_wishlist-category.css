@@ -1,0 +1,34 @@
+.wishlist-product-brand {
+    font-size: 22px;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'OPTIPermanentHeadline';
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.product-description {
+    min-height: 110px;
+}
+
+.whishlist {
+    background: transparent;
+    position: absolute;
+    top: 0.635rem;
+    right: 0.635rem;
+    z-index: 1;
+    cursor: pointer;
+}
+.wishMessage {
+    background: transparent;position: absolute;
+    top: 0.635rem;
+    right: 0.635rem;
+    z-index: 1;
+
+}
+.wish-alert {
+    top: -15px;left: -45px;position: relative;
+}
